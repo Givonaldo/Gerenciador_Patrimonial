@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_65" class="java.beans.XMLDecoder">
+ <object class="java.util.ArrayList">
+  <void method="add">
+   <object class="br.com.controle.modelos.Objeto">
+    <void property="descricao">
+     <string>cadeira escolar</string>
+    </void>
+    <void property="nome">
+     <string>Cadeira</string>
+    </void>
+    <void property="numTombamento">
+     <string>56756</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="br.com.controle.modelos.Escola">
+    <void property="cidade">
+     <string>Monteiro</string>
+    </void>
+    <void property="data">
+     <string>21/07/2014 Hora: 13:4:1</string>
+    </void>
+    <void property="nome">
+     <string>José Leite de Souza</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="br.com.controle.modelos.Escola">
+    <void property="cidade">
+     <string>Monteiro</string>
+    </void>
+    <void property="data">
+     <string>21/07/2014 Hora: 13:4:26</string>
+    </void>
+    <void property="nome">
+     <string>João de Oliveira Chaves</string>
+    </void>
+   </object>
+  </void>
+ </object>
+</java>
